@@ -1,0 +1,14 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	L0                      3003
+//	L1                      3009
+//	L2                      3012
+//	L3                      3014
+//	L4                      3016
+//	L5                      3019
+//	Newline                 301D
+//	Prompt                  3033
+//	Prompt1                 3050
+//	START                   3000
+//	StuNumber               301E
+//	TMP                     301C

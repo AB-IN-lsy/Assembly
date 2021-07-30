@@ -1,0 +1,25 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	ADDR4                   3033
+//	CHANGE                  301B
+//	F                       304D
+//	FALSE                   30F9
+//	FINAL                   3050
+//	L0                      3004
+//	L1                      300A
+//	L2                      3020
+//	L3                      3022
+//	L4                      3024
+//	L5                      3035
+//	L6                      303C
+//	LL                      301E
+//	LOUT                    302D
+//	Newline                 3067
+//	Prompt                  307D
+//	Prompt1                 309A
+//	START                   3000
+//	STRING                  3053
+//	StuNumber               3068
+//	T                       304A
+//	TMP                     3066
+//	TRUE                    30CC

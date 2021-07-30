@@ -1,0 +1,9 @@
+//Symbol Name		Page Address
+//----------------	------------
+//	L0                      3002
+//	L1                      3008
+//	L2                      3010
+//	Newline                 3013
+//	Prompt                  3029
+//	START                   3000
+//	StuNumber               3014
